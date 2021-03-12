@@ -7,5 +7,8 @@ new
 new2
 new3
 new4
+<<<<<<< HEAD
 new5
+=======
+>>>>>>> 712e22bc8bc9c063f171b11a9f4fdab5c782e394
 
